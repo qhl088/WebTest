@@ -9,8 +9,8 @@
 - [x] Test Tools
 - [x] Delievery
 * Test Object：`UI Test`
-- Test Environment：`VS2017` `C#`
-* Test Tools：`Selenuim` `Specflow`
+* Test Environment：`VS2017` `C#` 
+* Test Tools：`Selenuim` `Specflow` `FireFox`
 * Features
     * Simulate Actions
         * Mouse Actions
@@ -21,4 +21,4 @@
         * Porperties.Display
     * Factoryobject
         * [FindBy(How.CssSelector, Using = ".xx")]
-        * CSS[className] => start ".a.b" [class = a b]
+        * CSS[className] => start ".a.b" [class = a b]  
